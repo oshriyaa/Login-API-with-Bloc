@@ -4,7 +4,7 @@ This is a mobile application project consisting of login and profile view featur
 
 This application uses Bloc state management. 
 
-The application uses two personal APIs.
+The application uses two personal APIs. The generated token is saved locally using FlutterSecureStorage.
 
 APIs
 1. Login - This API generated a token on login after validating the user provided credentials.
